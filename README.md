@@ -57,7 +57,6 @@ Untuk mencegah tindakan bawaan browser, seperti pengiriman form yang memuat ulan
 Praktikum ini bertujuan untuk memahami penggunaan JavaScript DOM (Document Object Model) dan Event Handling dalam pengembangan halaman web. Praktikum ini juga bertujuan untuk mempelajari cara mengubah konten HTML, mengatur gaya elemen, memvalidasi formulir, membuat daftar tugas, serta menangani interaksi pengguna pada halaman web.
 
 # Struktur File
-Struktur file pada proyek praktikum ini adalah sebagai berikut:
 ![img19](<images/img 19.png>)
 
 # screenshot hasil praktikum
