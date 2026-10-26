@@ -40,8 +40,7 @@ Untuk mencegah tindakan bawaan browser, seperti pengiriman form yang memuat ulan
 5. Apa perbedaan `textContent` dan `innerHTML` dari sisi penggunaan dan keamanan?
 - `textContent`: digunakan untuk membaca atau mengubah teks biasa tanpa menganggapnya sebagai HTML.
 - `innerHTML`: digunakan untuk membaca atau mengubah isi HTML, termasuk markup.
-
-`textContent` lebih aman untuk menampilkan input pengguna karena teks tidak diproses sebagai HTML.
+- `textContent` lebih aman untuk menampilkan input pengguna karena teks tidak diproses sebagai HTML.
 
 6. Bagaimana `classList.toggle()` membantu mengubah tampilan elemen?
 `classList.toggle()` menambahkan class jika belum ada dan menghapusnya jika sudah ada. Dengan demikian, tampilan elemen dapat berubah secara bergantian sesuai aturan CSS.
